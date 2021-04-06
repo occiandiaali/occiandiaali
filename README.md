@@ -1,6 +1,6 @@
 ### Hi there 👋  
 👯 I can manage all stages of the software development life-cycle, and enjoy the process of collaborative creation.  
-🔭 I'm currently working on a couple of fullstack, mobile/web development apps...  
+🔭 I'm currently working on a Flutter e-commerce app for a small business, and an Ionic-React photo filtering app. 
 📫 Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄 Fun fact: I can whistle and blink underwater...  
 
