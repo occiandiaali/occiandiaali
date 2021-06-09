@@ -1,8 +1,8 @@
 ### Hi there 👋  
-👯 I have experienced all stages of the software development life-cycle, and enjoy the process of collaborative creation.  
-🔭 I'm currently working on a Flutter e-commerce app for a small business, and an Ionic-React photo filtering app.  
-📫 Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
-😄 Fun fact: I can whistle and blink underwater...  
+👯  I have experienced all stages of the software development life-cycle, and enjoy the process of collaborative creation.  
+🔭  I'm currently working on a Flutter e-commerce app for a small business, and an Ionic-React photo filtering app.  
+📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
+😄  Fun fact: I can whistle and blink underwater...  
 
 ### Languages &amp; Tools  
 <img src="https://user-images.githubusercontent.com/40769994/110233776-a9409980-7f26-11eb-9444-9a7140a02534.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20" border-radius="50%">    <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="20" border-radius="50%"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20" border-radius="50%"> <img src="https://image.flaticon.com/icons/png/128/1265/1265531.png" height="20" border-radius="50%">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="20" border-radius="50%">
