@@ -1,5 +1,5 @@
 ### Hi there 👋  
-👯  I have built projects for mobile and web, and enjoy the process of collaborative creation -> solution implementation.  
+👯  I am interested in building for web and mobile...  
 🔭  I have recently worked on a Flutter/Firebase app for a small business.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄  Fun fact: I can whistle and blink underwater (I think)...  
