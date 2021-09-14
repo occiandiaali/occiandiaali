@@ -1,5 +1,5 @@
 ### Hi there 👋, Occian is pronounced "Ocean"...
-👯  I am interested in cross/multi-platform, hybrid, and web applications development.  
+👯  I am interested in cross/multi-platform mobile, hybrid, and web applications development.  
 🔭  I have recently worked on a Flutter/Firebase app for a small business.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄  Fun fact: I can whistle and blink underwater...  
