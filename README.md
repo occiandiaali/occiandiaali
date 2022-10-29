@@ -1,6 +1,6 @@
 ### Hi there 👋, Occian is pronounced "Ocean".
 👯  I am interested in cross/multi-platform mobile, hybrid, and web applications development.  
-🔭  I have recently worked with React Native and Flutter on MVPs & prototypes.  
+🔭  I have most recently worked as a remote React Native dev, as part of a distributed team, across 4 continents, at a fintech company.
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄  Fun fact: I can whistle and blink underwater...  
 
