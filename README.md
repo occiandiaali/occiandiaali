@@ -1,5 +1,5 @@
 ### Hi 👋, did you know that Occian is pronounced "Ocean"?
-👯  I am interested in cross-platform mobile, hybrid, and web applications development.  
+👯  I am interested in cross-platform mobile, or hybrid, or web applications development.  
 🔭  I have most recently worked as a React Native dev at a fintech company, as part of a distributed team, spread across 4 continents.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄  Fun fact: I can whistle and blink underwater...  
