@@ -1,4 +1,4 @@
-### Hi 👋, did you know that Occian is pronounced "Ocean"?
+### Hi 👋, Occian is pronounced Ocean.
 👯  I am interested in mobile and web applications development.  
 🔭  Currently working on 2 MVPs with React Native.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
