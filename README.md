@@ -1,5 +1,5 @@
-### Hi 👋, Occian is pronounced Ocean.
-👯  I am interested in mobile and web applications development, with a recent pivot towards full-stack work.  
+### Hi 👋, call me Occian. Like the waters.
+👯  I am interested in mobile and web applications development. 
 🔭  Currently working on 2 MVPs with React Native and Flutter, and a couple of SaaS products.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄  Fun fact: I can whistle and blink underwater...  
