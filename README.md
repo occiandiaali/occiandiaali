@@ -1,4 +1,4 @@
-### Hi 👋, call me Occian. Like the waters.
+### Hi 👋, call me Occian.
 👯  I am interested in mobile and web applications development. 
 🔭  Currently working on 2 MVPs with React Native and Flutter, and a couple of SaaS products.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
