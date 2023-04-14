@@ -1,8 +1,9 @@
 ### Hi 👋, call me Occian.
-👯  I am interested in mobile and web applications development. 
-🔭  Currently working on 2 MVPs with React Native and Flutter, and a couple of SaaS products.  
+👯  I am interested in mobile applications development, and open source triaging.  
+🔭  Currently building apps with React Native and Flutter frameworks.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
-😄  Fun fact: I can whistle and blink underwater...  
+😄 Pronouns: He/Him.  
+⚡  Fun fact: I can whistle and blink underwater...  
 
 ### Languages &amp; Tools  
 <img src="https://user-images.githubusercontent.com/40769994/110233776-a9409980-7f26-11eb-9444-9a7140a02534.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20" border-radius="50%">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="20" border-radius="50%">    <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="20" border-radius="50%"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20" border-radius="50%"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" height="20" border-radius="50%"> 
