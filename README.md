@@ -1,5 +1,5 @@
 ### Hi 👋, call me Occian.
-👯  I am interested in mobile applications development, and open source triaging.  
+👯  I am interested in mobile applications development, and open source triaging.   
 🔭  Currently building apps with React Native and Flutter frameworks.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
 😄 Pronouns: He/Him.  
