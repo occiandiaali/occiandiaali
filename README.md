@@ -1,6 +1,6 @@
 ### Hi 👋, call me Occian.
 👯  I am interested in mobile applications development, and open source.   
-🔭  Currently building apps with React Native and Flutter frameworks.  
+🔭  Currently building apps with Jetpack Compose, React Native and Flutter frameworks.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
   
 ⚡  Fun fact: I can whistle and blink underwater...  
