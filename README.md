@@ -1,5 +1,5 @@
 ### Hi 👋, call me Occian.
-👯  I am interested in cross-platform web & mobile software solutions, software security, and Open Source software.
+👯  I am interested in cross-platform web & mobile software solutions, software security, and Open Source software.  
 🔭  Currently building apps with ES6+-based tools, managed backends, and Laravel.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
   
