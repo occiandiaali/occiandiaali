@@ -1,6 +1,6 @@
 ### Hi 👋, call me Occian.
 👯  I am interested in cross-platform web & mobile software solutions, software security, and Open Source software.  
-🔭  Currently building apps with ES6+-based tools, TypeScript, managed backends, and Golang.  
+🔭  Currently building MVPs and prototypes with ES6+-based tools, cross-platform web/mobile frameworks, Machine Learning, SQL/NoSQL packages, and Ruby on Rails, while playing with Kotlin Multiplatform and Golang on the side.  
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
   
 ⚡  Fun fact: I hosted a morning-radio show for nearly 20 years..(no, i wasn't a DeeJay). 😁
