@@ -1,7 +1,7 @@
 ### Hi 👋, this is Occian.  
 👯  I am interested in multi/cross-platform web & mobile software development and Open Source software.  
 
-🔭  Currently looking for inspiration or an awesome team to work with. 📡
+<!--🔭  Currently looking for inspiration or an awesome team to work with. 📡-->
 
 📫  Reach me:  [Twitter](https://twitter.com/occiandiaali) | [LinkedIn](https://www.linkedin.com/in/occiandiaali) | [Gmail](ocean.diaali@gmail.com)  
   
